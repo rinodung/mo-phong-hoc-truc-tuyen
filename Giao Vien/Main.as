@@ -1,8 +1,4 @@
-﻿/*
-	Read function instruction in the main file of phonghoca.
-	The only difference is student application receiving stream and teacher application
-	broastcast stream.
-*/
+﻿
 package 
 {
 	import com.bit101.components.*;	
