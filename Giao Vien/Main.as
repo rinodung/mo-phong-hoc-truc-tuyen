@@ -55,10 +55,6 @@ package
 		private var lop:String;
 		public var ta_chat:fl.controls.TextArea;
 		
-		// Video  var
-		
-	//	private var bmpds:ArrayCollection;
-		
 		private var video_publish:Video;
 		private var video_voteback:Video;
 		private var ns_voteback:NetStream;
@@ -70,8 +66,7 @@ package
 		//SharedObject
 		public var so_ol:SharedObject;
 
-		//public var ol:TextArea;
-
+		
 		public var grid_online:DataGrid;
 		public var textformat1:TextFormat;
 		//info
