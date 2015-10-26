@@ -39,7 +39,9 @@ package
 
 	public class Main extends MovieClip
 	{
-
+		
+		// chi dieu them cai nay
+		
 		public var nc:NetConnection;
 		public var input_chat:fl.controls.TextInput;
 		public var status_a:fl.controls.Label;
